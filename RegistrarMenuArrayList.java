@@ -1,8 +1,8 @@
 /**
- * File: MenuExample.java
+ * File: RegistrarMenuArrayList.java
  * Description: Practice creating an interactive menu with decision and looping logic structures
- * @author: Awny Alnusair
- * @version 1.0
+ * @author: Awny Alnusair/ Jasmine Martin
+ * @version 2.0
  */
 
 import java.util.Scanner;
